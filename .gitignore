@@ -1,4 +1,5 @@
 target/
+!target/*.jar
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -22,3 +23,5 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+src/main/resources/static/
+src/main/resources/templates/
